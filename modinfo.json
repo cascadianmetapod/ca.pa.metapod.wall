@@ -1,0 +1,40 @@
+{
+    "author": "METAPOD",
+    "build": "99377",
+    "context": "server",
+    "date": "2018-01-14",
+    "description": "barriers now cost 1 metal",
+    "display_name": "BUILD A WALL",
+    "forum": "https://forums.uberent.com/threads/wall-mod.72855/",
+    "icon": "https://i.imgur.com/f9S1Q3H.jpg",
+    "identifier": "ca.pa.metapod.wall",
+    "priority": 99,
+    "version": "1.1.1",
+    "titansOnly": true,
+    "hidden": false,
+    "unitList": false,
+    "fileSystem": false,
+    "searchable": [
+        "wall",
+        "trump",
+        "WALL",
+		"build"
+    ],
+    "sort": "wall",
+    "authors": [
+        "metapod"
+    ],
+    "timestamp": 1515888000000,
+    "companions": [],
+    "framework": false,
+    "available": true,
+    "enabled": true,
+    "classicOnly": false,
+    "classic": false,
+    "titans": true,
+    "url": "",
+    "download": "",
+    "dependencies": [],
+    "scenes": {},
+    "conflicts": {}
+}
